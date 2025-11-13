@@ -1,6 +1,6 @@
 This is scroll-based sequence animation samples.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+DEMO [demo link]([https://nextjs.org/](https://react-sequence-animations-samles.vercel.app/))
 
 This project is built with:
 
